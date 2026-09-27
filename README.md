@@ -70,7 +70,7 @@ The dataset contains 1,200 records and 15 fields.
 
 ## Dashboard
 
-![Inventory & Supply Chain Dashboard](images/Inventory_Supply_Chain_Dashboard.png)
+![Inventory Dashboard](Inventory.png)
 
 ---
 
