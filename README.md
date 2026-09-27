@@ -180,6 +180,21 @@ Data Validation
 DAX Measures
      ↓
 Power BI Data Model
+
+
+## Future Enhancements
+
+Potential extensions to this project include:
+
+SQL-based data extraction and analysis
+Python-based data cleaning and validation
+Inventory demand forecasting
+Warehouse capacity forecasting
+Supplier performance analysis
+Transportation cost forecasting
+Stockout risk analysis
+Automated data-quality checks
+Power BI drill-through and alerting
      ↓
 Dashboard Development
      ↓
